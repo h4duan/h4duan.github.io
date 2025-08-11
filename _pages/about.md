@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Toronto</a>
 
 profile:
   align: right
@@ -23,3 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+Hi! I am a PhD student in Computer Science at the University of Toronto, where I am fortunate to be advised by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and [Nicolas Papernot](https://www.papernot.fr/). My research focuses on developing AI algorithms to advance scientific discovery. I have built intelligent systems that generate accurate predictions and automate complex reasoning in various fields of natural sciences.
+
+I'm always interested in exploring new collaborations and opportunities, whether in academia or industry. Feel free to drop me an email: haonand@cs.toronto.edu
