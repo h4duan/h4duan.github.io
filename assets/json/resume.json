@@ -1,8 +1,7 @@
 {
   "basics": {
     "name": "Haonan Duan",
-    "image": "",
-    "email": "haonand@cs.toronto.edu",
+    "email": "haonand@cs.toronto.edu"
   },
   "education": [
     {
@@ -19,20 +18,18 @@
       "location": "Waterloo, ON",
       "area": "Computer Science",
       "studyType": "MMath",
-      "startDate": "2016-09-01",
-      "endDate": "2019-06-01",
+      "startDate": "2019-09-01",
+      "endDate": "2021-06-01",
       "supervisor": "Pascal Poupart"
-    }
-  ],
-  "work": [
+    },
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "institution": "University of Toronto",
+      "location": "Toronto, ON",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2021-09-01",
+      "endDate": "Now",
+      "supervisor": "Chris Maddison, Nicolas Poupart"
     }
-  ],
+  ]
 }
