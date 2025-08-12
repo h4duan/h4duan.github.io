@@ -47,5 +47,9 @@
       "startDate": "2020-06-01",
       "endDate": "2020-09-01"
     }
-  ]
+  ],
+  "Academic services":{
+    "Reviewers": "ICML, NeurIPS, ICLR (2021-2025)", 
+    "Teaching": "TA for CSC311, CSC412, CSC413 at UofT (2021-2025)"
+  }
 }

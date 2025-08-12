@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a PhD student in Computer Science at the University of Toronto, where I am fortunate to be advised by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and [Nicolas Papernot](https://www.papernot.fr/). My research focuses on developing AI algorithms to advance scientific discovery. I have built intelligent systems that automate complex reasoning in various fields of natural sciences.
+Hi! I am a PhD student in Computer Science at the University of Toronto, where I am fortunate to be advised by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and [Nicolas Papernot](https://www.papernot.fr/). My research focuses on developing AI algorithms to advance scientific discovery. I have built intelligent systems that could perform complex reasoning in various fields of natural sciences. Before this, I have 
 
 I am looking for collaborations and opportunities in both industry and academia. Please feel free to send me an email!
