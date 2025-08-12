@@ -31,5 +31,21 @@
       "endDate": "Now",
       "supervisor": "Chris Maddison, Nicolas Poupart"
     }
+  ],
+  "Pre-PhD Industry Experiences":[
+    {
+      "company": "Uber",
+      "location": "Toronto, ON",
+      "position": "Software Engineer Intern",
+      "startDate": "2021-01-01",
+      "endDate": "2021-05-01"
+    },
+    {
+      "company": "Thomson Reuters",
+      "location": "Toronto, ON",
+      "position": "Data Scientist",
+      "startDate": "2020-06-01",
+      "endDate": "2020-09-01"
+    }
   ]
 }
