@@ -23,6 +23,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a PhD student in Computer Science at the University of Toronto, where I am fortunate to be advised by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and [Nicolas Papernot](https://www.papernot.fr/). My research focuses on developing intelligent systems capable of complex reasoning in the natural sciences. Throughout my research, I have gained extensive experience across multiple stages of AI4Science systems, from data collection to model training and evaluation. Previously, I also worked on trustworthy machine learning and probabilistic methods.
-
-I am actively seeking collaborations and opportunities in both industry and academia. Please feel free to reach out via email!
+Hi! I recently joined [Isomorphic Labs](https://www.isomorphiclabs.com/) as a research scientist in London. During my PhD at at the University of Toronto, I am fortunate to be advised by [Chris Maddison](https://www.cs.toronto.edu/~cmaddis/) and [Nicolas Papernot](https://www.papernot.fr/). My research focuses on developing intelligent systems capable of complex reasoning in the natural sciences. Throughout my research, I have gained extensive experience across multiple stages of AI4Science systems, from data collection to model training and evaluation. Previously, I also worked on trustworthy machine learning and probabilistic methods.
